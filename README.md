@@ -267,6 +267,14 @@ Client (useServerFn) → attachSupabaseAuth (JWT)
 
 ---
 
+## Documentação Completa
+
+Para documentação detalhada (configuração de ambiente, integrações, deploy), consulte:
+
+➡️ **[docs/README.md](docs/README.md)**
+
+---
+
 ## Licença
 
-Todos os direitos reservados — Result Scale.
+Todos os direitos reservados.
