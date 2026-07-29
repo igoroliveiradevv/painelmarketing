@@ -277,4 +277,4 @@ Para documentação detalhada (configuração de ambiente, integrações, deploy
 
 ## Licença
 
-Todos os direitos reservados.
+MIT — veja [LICENSE](LICENSE).

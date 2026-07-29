@@ -564,4 +564,4 @@ Ajustes necessários para deploy:
 
 ## Licença
 
-Todos os direitos reservados.
+MIT — veja [LICENSE](../LICENSE).
